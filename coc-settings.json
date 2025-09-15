@@ -1,0 +1,7 @@
+{
+  "suggest.noselect": true,
+  "inlayHint.enable": true,
+  "inlayHint.display": false,
+  "jedi.hover.enable": true,
+
+}
